@@ -15,3 +15,6 @@
 
 - install angular CLI
 => sudo npm install -g @angular/cli
+
+- create App
+=> ng new demo-app
